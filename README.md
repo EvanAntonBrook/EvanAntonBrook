@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**EvanAntonBrook/EvanAntonBrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--# Hi, I'm Evan Brook 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Finance & Business Analytics student at Saint Mary's College of California, specializing in the intersection of **Algorithmic Finance** and **Institutional Strategy**.
+
+### 🛠️ What I Build:
+*   **Quantitative M&A Engines:** Automating LBO Debt Waterfalls and DCF Valuations.
+*   **Wealth Management Optimizers:** Deploying Black-Scholes and Markowitz MPT for nine-figure trust fund management.
+*   **Machine Learning Pipelines:** Using K-Means and Random Forest to tranche startup unit economics.
+
+### 📊 Featured Project:
+[**Institutional Quantitative Portfolio**](https://github.com/EvanAntonBrook/Career_Projects)
+*A suite of live financial engines deployed via Python and Streamlit.*
+
+**Contact:** [Email](mailto:evanbrook2023@gmail.com) | [LinkedIn](https://www.linkedin.com/in/evan-brook/)
+
+**
